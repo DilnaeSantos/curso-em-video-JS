@@ -1,0 +1,8 @@
+5 > 2 // 5 e maior do que 2 = true
+7 < 4 // 7 e menor do que 4 = false
+8 >= 8 // 8 e maior ou igual a 8 = true
+9 <= 7 // 9 e menor ou igual a 7 = false
+5 == 5 // 5 e igual a 5 = true
+5 === '5' // ele compara o tipo e o conteudo = false
+5 !== '5' // 5 e desigual a '5' eles são de tipos diferendes = true
+4 != 4 // 4 e diferende de 4 = false

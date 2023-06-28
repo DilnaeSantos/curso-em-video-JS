@@ -1,0 +1,35 @@
+body {
+    background-color: #2c5ba3;
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 0px 0px 20px #000000;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.foto-padrao {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

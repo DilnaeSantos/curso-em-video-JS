@@ -1,0 +1,8 @@
+! = negação
+&& = conjunção (e)
+|| = disjunção (ou)
+
+ordem de precedência
+1° !
+2° &&
+3° ||

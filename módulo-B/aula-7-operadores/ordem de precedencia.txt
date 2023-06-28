@@ -1,0 +1,18 @@
+ordem de precedência geral
+1° operadores aritméticos
+2° operadores relacionais
+3° operadores lógicos
+
+ordem de precedência aritméticos
+1° ()
+2° **
+3° * e / e %
+4° + e -
+
+ordem de precedência relacionais
+quem aparece primeiro
+
+ordem de precedência lógicos
+1° !
+2° &&
+3° ||

@@ -1,0 +1,22 @@
+5 + 2 = 7
+
+5 - 2 = 3
+
+5 * 2 = 10
+
+5 / 2 = 2.5 //divisão inteira
+
+5 % 2 = 1 //resto da divisão inteira
+
+5 ** 2 = 25 //potencia
+
+ordem de precedência
+1° - ()
+2° - **
+3° - '*' '/' '%' //quem aparece primeiro
+4° - '+' '-'
+
+ordem de calculo geral
+1° operadores aritméticos
+2° operadores relacionais
+3° operadores lógicos

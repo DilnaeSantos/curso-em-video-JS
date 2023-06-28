@@ -1,0 +1,14 @@
+? se for
+: se não
+
+teste ? true : false
+
+exemplo
+média >= 7.0 ? "aprovado":"reprovado"
+se a média for maior ou igual a 7 aprovado se não reprovado
+
+exemplo 2
+var x = 8
+var res = x % 2 == 0 ? 5:9
+se o resuldado de x % 2 for igual a 0 a var res irá receber o 5 se não o 9
+nesse caso o res = 5
